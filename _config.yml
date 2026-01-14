@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Naïm NAOUAR"
 title_separator          : "-"
 name                     : &name "Naïm NAOUAR"
@@ -24,7 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Dr Naïm NAOUAR"
+  name             : "Dr Naïm NAOUAR, PhD"
   pronouns         : # example: "she/her"  
   bio              : "Research scientist (CNRS) at LaMCoS (INSA Lyon). Multi-scale modelling & experimental characterisation of textile composites."
   location         : "Lyon, France"
